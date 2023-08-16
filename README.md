@@ -23,7 +23,7 @@ Random Forest and Naive Bayes were used to identify online payment fraud due to 
 
 ![image](https://user-images.githubusercontent.com/118715799/210950017-e4d317e0-6bf4-4ecd-8313-9b8121e04e9f.png)
 
-Read the complete Online Payment Fraud Detection project [here](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb).
+Read the complete Online Payment Fraud Detection project [here](https://github.com/ArdhenduChowdhury/Online_Payment_Fraud_Detection-_Classification_Model/tree/6259f688ae98cb8a0b6ae1c324c6041048587432).
 
 ## Conclusion
-The best performing model is **Random Forest** for identifying fraudulent and non-fraudulent payments.
+The best performing model is **Decision Tree** for identifying fraudulent and non-fraudulent payments.
