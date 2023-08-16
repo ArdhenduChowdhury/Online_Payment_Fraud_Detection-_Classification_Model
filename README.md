@@ -14,14 +14,14 @@ The dataset consists of 10 variables:
 * oldbalanceDest: initial balance of recipient before the transaction
 * newbalanceDest: the new balance of recipient after the transaction
 * isFraud: fraud transaction
+* isflaggedfraud: This column wasnt included in the dataset information that was provided, so we will drop this column as the labeled column is already present.
+
 
 
 ### Python Libraries
-pandas, numpy, seaborn, matplotlib, tabulate, sklearn
+pandas, numpy, seaborn, matplotlib, sklearn
 
 Random Forest and Naive Bayes were used to identify online payment fraud due to the large dataset.
-
-![image](https://user-images.githubusercontent.com/118715799/210950017-e4d317e0-6bf4-4ecd-8313-9b8121e04e9f.png)
 
 Read the complete Online Payment Fraud Detection project [here](https://github.com/ArdhenduChowdhury/Online_Payment_Fraud_Detection-_Classification_Model/tree/6259f688ae98cb8a0b6ae1c324c6041048587432).
 
