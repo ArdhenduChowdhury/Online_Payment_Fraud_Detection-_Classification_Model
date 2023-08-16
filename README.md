@@ -23,7 +23,5 @@ pandas, numpy, seaborn, matplotlib, sklearn
 
 Decision Tree, Logistic Regression and Random Forest were used to identify online payment fraud due to the large dataset.
 
-Read the complete Online Payment Fraud Detection project [here](https://github.com/ArdhenduChowdhury/Online_Payment_Fraud_Detection-_Classification_Model/tree/6259f688ae98cb8a0b6ae1c324c6041048587432).
-
 ## Conclusion
 The best performing model is **Decision Tree** for identifying fraudulent and non-fraudulent payments.
